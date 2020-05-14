@@ -15,11 +15,12 @@ CP :同业存单/<p>
 SCP: 超短期融资券/ <p>
 PPN: 定向工具（私募券）/<p>
 MTN: 中期票据（中票）ABN: 资产支持票据/<p>
-SCP :超短期融债券是指/<p>
-具有法人资格、信用评级较高的非金融企业在银行间债券市场发行的，期限在270天以内的短期融资券。<p>
+SCP :超短期融债券是指具有法人资格、信用评级较高的非金融企业在银行间债券市场发行的，期限在270天以内的短期融资券。<p>
 PPN :在银行间债券市场以非公开定向发行方式发行的债务融资工具称为非公开定向债务融资工具(PPN,private placement note)。<p>
 MTN :英文Medium-term Notes的缩写。中期票据是指具有法人资格的非金融企业在银行间债券市场按照计划分期发行的,约定在一定期限还本付息的债务融资工具。
 
+
+<hr/>
 
 Visual Display with Pyecharts (以下仅展示部分，具体展示结果可参考<a href="https://github.com/yudai-il/Pandemic-Bonds-Analysis/blob/master/page.html">该页面</a>)
 
